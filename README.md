@@ -220,10 +220,3 @@ Tests cover:
 ## 📝 License
 
 This project is based on examples from [Real Python's LangGraph tutorial](https://realpython.com/langgraph-python/).
-
-```
-
-## 📞 Support
-
-For questions or issues, please refer to the LangChain and LangGraph documentation or open an issue in the repository.
-
