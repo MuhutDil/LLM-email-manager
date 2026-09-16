@@ -21,8 +21,8 @@ The primary entry point that routes emails to appropriate handlers:
 
 ```
 START → email_agent → [tool execution] → email_agent → END
-                         ↓
-                    email_tools
+                             ↓
+                        email_tools
 ```
 
 **Available Tools:**
